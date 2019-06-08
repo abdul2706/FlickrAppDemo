@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--color orange yellow-->
+    <color name="primary1">#FF9800</color>
+    <color name="primary_dark1">#F57C00</color>
+    <color name="primary_light1">#FFE0B2</color>
+    <color name="accent1">#FFEB3B</color>
+    <color name="primary_text1">#212121</color>
+    <color name="secondary_text1">#757575</color>
+    <color name="icons1">#212121</color>
+    <color name="divider1">#BDBDBD</color>
+
+    <!--color tesl deep-orange-->
+    <color name="primary2">#009688</color>
+    <color name="primary_dark2">#00796B</color>
+    <color name="primary_light2">#B2DFDB</color>
+    <color name="accent2">#FF5722</color>
+    <color name="primary_text2">#212121</color>
+    <color name="secondary_text2">#757575</color>
+    <color name="icons2">#FFFFFF</color>
+    <color name="divider2">#BDBDBD</color>
+</resources>

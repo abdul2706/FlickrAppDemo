@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Flickr App Demo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_search">Search Activity</string>
+    <string name="title_activity_photo_detail">Photo Detail</string>
+    <string name="browse_image_description">Downloaded Flickr Image</string>
+    <string name="photo_author_text">Author: %s</string>
+    <string name="photo_title_text">Title: %s</string>
+    <string name="photo_tags_text">Tags: %s</string>
+    <string name="activity_search">Search</string>
+    <string name="activity_settings">Settings</string>
+    <string name="searchable_hint">Enter Photo Tags</string>
+    <string name="empty_photo">No photos match your search.  Use the search icon to search for photos.</string>
+</resources>
